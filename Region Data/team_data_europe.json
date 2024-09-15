@@ -1,0 +1,912 @@
+[
+    {
+        "Team Name": "Team Heretics",
+        "Abbreviation": "TH",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "FNATIC",
+        "Abbreviation": "FNC",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Apeks",
+        "Abbreviation": "APK",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "PCIFIC Espor",
+        "Abbreviation": "PCF",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "DSYRE",
+        "Abbreviation": "DSY",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "GoNext Esports",
+        "Abbreviation": "GN",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "CGN Esports",
+        "Abbreviation": "CGN",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "MOUZ",
+        "Abbreviation": "MOUZ",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Team Vitality",
+        "Abbreviation": "VIT",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "FUT Esports",
+        "Abbreviation": "FUT",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "KPI Gaming",
+        "Abbreviation": "KPI",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Acend",
+        "Abbreviation": "ACE",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Joblife",
+        "Abbreviation": "JL",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Diamant Esports",
+        "Abbreviation": "DIA",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "UCAM Esports Club",
+        "Abbreviation": "UCAM",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Requiem",
+        "Abbreviation": "RQM",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "SAW",
+        "Abbreviation": "SAW",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Fire Flux Esports",
+        "Abbreviation": "FF",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "VALIANT",
+        "Abbreviation": "VLNT",
+        "Country": "France"
+    },
+    {
+        "Team Name": "GIANTX",
+        "Abbreviation": "GX",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Natus Vincere",
+        "Abbreviation": "NAVI",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "HOWL Esports",
+        "Abbreviation": "HOWL",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Gentle Mates",
+        "Abbreviation": "M8",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Team Liquid",
+        "Abbreviation": "TL",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "FOKUS",
+        "Abbreviation": "FKS",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "NOVO Esports",
+        "Abbreviation": "NOVO",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "Zerance",
+        "Abbreviation": "ZER",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Mandatory",
+        "Abbreviation": "MDR",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Barça eSports",
+        "Abbreviation": "BAR",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "PPP",
+        "Abbreviation": "PPP",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "trashcan",
+        "Abbreviation": "trashcan",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "SweetNsour",
+        "Abbreviation": "SNS",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Karmine Corp",
+        "Abbreviation": "KC",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Chipi Chapa's",
+        "Abbreviation": "CHCH",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Papara SuperMassive",
+        "Abbreviation": "SUP",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Eintracht Frankfurt",
+        "Abbreviation": "SGE",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Oxuji",
+        "Abbreviation": "OXJ",
+        "Country": "Russia"
+    },
+    {
+        "Team Name": "Szach Mat",
+        "Abbreviation": "SHA",
+        "Country": "Poland"
+    },
+    {
+        "Team Name": "Galakticos",
+        "Abbreviation": "GAL",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "BBL Esports",
+        "Abbreviation": "BBL",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Formulation Gaming",
+        "Abbreviation": "FMG",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "lesptitesnieces",
+        "Abbreviation": "lesptitesnieces",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Impulse GW",
+        "Abbreviation": "IGW",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "FOKUS & Friends",
+        "Abbreviation": "FOKUS & Friends",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "NXT",
+        "Abbreviation": "NXT",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "KOI",
+        "Abbreviation": "KOI",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "The Vicious",
+        "Abbreviation": "VCS",
+        "Country": "Arabia"
+    },
+    {
+        "Team Name": "Digital Athletics",
+        "Abbreviation": "DATH",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Entropy",
+        "Abbreviation": "EYG",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Ramboot Club",
+        "Abbreviation": "RBT",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Cicadas Gaming",
+        "Abbreviation": "CG",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Galatasaray Esports",
+        "Abbreviation": "GS",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "FIVE Media Clan",
+        "Abbreviation": "FIVE",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Outplayed",
+        "Abbreviation": "OP",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "eSports Cologne",
+        "Abbreviation": "ECO",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Zero Tenacity",
+        "Abbreviation": "Z10",
+        "Country": "Poland"
+    },
+    {
+        "Team Name": "OnlyFins",
+        "Abbreviation": "OF",
+        "Country": "Finland"
+    },
+    {
+        "Team Name": "godiwnl",
+        "Abbreviation": "godiwnl",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "VCL Rejects",
+        "Abbreviation": "VCL Rejects",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Colors Esport",
+        "Abbreviation": "Colors Esport",
+        "Country": "France"
+    },
+    {
+        "Team Name": "ALTERNATE aTTaX",
+        "Abbreviation": "ATN",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Axsor",
+        "Abbreviation": "AX",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Irregulars",
+        "Abbreviation": "Irregulars",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "SK Gaming",
+        "Abbreviation": "SK",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Bitfix Gaming",
+        "Abbreviation": "BFG",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "Vanir Seid",
+        "Abbreviation": "Vanir Seid",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "DIVIZON",
+        "Abbreviation": "DIV",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "apinaorkesteri",
+        "Abbreviation": "APE",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Jabba Enjoyers",
+        "Abbreviation": "Jabba Enjoyers",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "INF Esports",
+        "Abbreviation": "INF",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Lootcifer",
+        "Abbreviation": "Lootcifer",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Dragonslayerzzz",
+        "Abbreviation": "DRAG",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "GEEKZ ENERGY eSPORTS",
+        "Abbreviation": "GEEKZ ENERGY eSPORTS",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Albanian Eagle",
+        "Abbreviation": "Albanian Eagle",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Team hz",
+        "Abbreviation": "Team hz",
+        "Country": "Russia"
+    },
+    {
+        "Team Name": "Team Galaga",
+        "Abbreviation": "GG",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "B8 Esports",
+        "Abbreviation": "B8",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "ehehxd",
+        "Abbreviation": "EHXD",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Ginger Supremacy",
+        "Abbreviation": "Ginger Supremacy",
+        "Country": "Netherlands"
+    },
+    {
+        "Team Name": "NOM Esports",
+        "Abbreviation": "NOM",
+        "Country": "Israel"
+    },
+    {
+        "Team Name": "VX300 Gaming",
+        "Abbreviation": "VX3",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "HGE Esport",
+        "Abbreviation": "HGE",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "OblivionXC",
+        "Abbreviation": "OblivionXC",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "Danger",
+        "Abbreviation": "Danger",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "NoodleSoupWarriors",
+        "Abbreviation": "NoodleSoupWarriors",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "NOVITA",
+        "Abbreviation": "NOVITA",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "ZennIT",
+        "Abbreviation": "ZennIT",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "MCRP Ultras",
+        "Abbreviation": "MCRP Ultras",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "FLYMORE",
+        "Abbreviation": "FLYMORE",
+        "Country": "Poland"
+    },
+    {
+        "Team Name": "SZK Esports",
+        "Abbreviation": "SZK",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Evoza Esport",
+        "Abbreviation": "Evoza Esport",
+        "Country": "France"
+    },
+    {
+        "Team Name": "VAMONOS",
+        "Abbreviation": "VAM",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Project X",
+        "Abbreviation": "Project X",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "EXO Clan",
+        "Abbreviation": "EXO",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "Permitta Unicorns",
+        "Abbreviation": "PXU",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Reveal Multigaming",
+        "Abbreviation": "RV",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "2L8",
+        "Abbreviation": "2L8",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Lyost",
+        "Abbreviation": "Lyost",
+        "Country": "France"
+    },
+    {
+        "Team Name": "NAPOLYON",
+        "Abbreviation": "NAPOLYON",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "calamity L",
+        "Abbreviation": "calamity L",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "ANANI SIK",
+        "Abbreviation": "ANANI SIK",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Metizport",
+        "Abbreviation": "MZP",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "AEX-1",
+        "Abbreviation": "AEX",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "S2G Esports",
+        "Abbreviation": "S2G",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Ruddy",
+        "Abbreviation": "RUD",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "Melilla Titans",
+        "Abbreviation": "MT",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "RedPack eSports",
+        "Abbreviation": "RP",
+        "Country": "Romania"
+    },
+    {
+        "Team Name": "X1 Esports",
+        "Abbreviation": "X1",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Wygers",
+        "Abbreviation": "WYG",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Flame Hard",
+        "Abbreviation": "FH",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "RANKED DEMONS",
+        "Abbreviation": "RANKED DEMONS",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "EX0TIK GAMING",
+        "Abbreviation": "EX0",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Signum Reges",
+        "Abbreviation": "SR",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Scythe Of Seraph",
+        "Abbreviation": "Scythe Of Seraph",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "All Aim",
+        "Abbreviation": "All Aim",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "caLLLamas",
+        "Abbreviation": "caLLLamas",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Exceptional Gaming",
+        "Abbreviation": "EXG",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Akroma",
+        "Abbreviation": "AKR",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Solary",
+        "Abbreviation": "SLY",
+        "Country": "France"
+    },
+    {
+        "Team Name": "LFO",
+        "Abbreviation": "LFO",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Falke Esports",
+        "Abbreviation": "FLK",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "EVOPLAY",
+        "Abbreviation": "EVOPLAY",
+        "Country": "Ukraine"
+    },
+    {
+        "Team Name": "K10",
+        "Abbreviation": "K10",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "Skelp Esports",
+        "Abbreviation": "Skelp Esports",
+        "Country": "Scotland"
+    },
+    {
+        "Team Name": "Xperion NXT",
+        "Abbreviation": "NXT",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "ISOSIMO",
+        "Abbreviation": "ISOSIMO",
+        "Country": "Finland"
+    },
+    {
+        "Team Name": "XXL",
+        "Abbreviation": "XXL",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "FUZOS",
+        "Abbreviation": "FUZO",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Sila4i",
+        "Abbreviation": "S4",
+        "Country": "Ukraine"
+    },
+    {
+        "Team Name": "Eternal Fire",
+        "Abbreviation": "EF",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "WLGaming Esports",
+        "Abbreviation": "WLG",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "Nativz",
+        "Abbreviation": "Nativz",
+        "Country": "Ireland"
+    },
+    {
+        "Team Name": "Honeybadger123",
+        "Abbreviation": "Honeybadger123",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Pingou Esport",
+        "Abbreviation": "Pingou Esport",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Rotaryon",
+        "Abbreviation": "Rotaryon",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "ZETA Gaming",
+        "Abbreviation": "ZETA",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "eQuizers",
+        "Abbreviation": "EQZ",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "There is no tomorrow",
+        "Abbreviation": "TNT",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "CTRL Esports",
+        "Abbreviation": "CTRL",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "İstanbul Wildcats",
+        "Abbreviation": "IW",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Siko",
+        "Abbreviation": "Siko",
+        "Country": "Netherlands"
+    },
+    {
+        "Team Name": "Wintermint",
+        "Abbreviation": "Wintermint",
+        "Country": "Finland"
+    },
+    {
+        "Team Name": "duplaw",
+        "Abbreviation": "duplaw",
+        "Country": "Hungary"
+    },
+    {
+        "Team Name": "LONETEAM",
+        "Abbreviation": "LONE",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "SLTitans Esports",
+        "Abbreviation": "SLT",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Fenerbahçe Esports",
+        "Abbreviation": "FB",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Tamaria Altunga Esports",
+        "Abbreviation": "TAE",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "NOMAD",
+        "Abbreviation": "NOMAD",
+        "Country": "France"
+    },
+    {
+        "Team Name": "5STARS Esport",
+        "Abbreviation": "5STARS Esport",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "GTZ Esports",
+        "Abbreviation": "GTZ",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Coalesce",
+        "Abbreviation": "CLS",
+        "Country": "Kingdom"
+    },
+    {
+        "Team Name": "GHR E-Sports",
+        "Abbreviation": "GHR",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Dog Nation",
+        "Abbreviation": "Dog Nation",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "DVM Esport",
+        "Abbreviation": "DVM",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Regnum Carya Esports",
+        "Abbreviation": "REG",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "DMG Esports",
+        "Abbreviation": "DMG Esports",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "Optimum Esports",
+        "Abbreviation": "Optimum Esports",
+        "Country": "Algeria"
+    },
+    {
+        "Team Name": "SPACEGLIDERS",
+        "Abbreviation": "SPACEGLIDERS",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Simple Minecraft Players",
+        "Abbreviation": "Simple Minecraft Players",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "who cars?",
+        "Abbreviation": "WHO",
+        "Country": "Denmark"
+    },
+    {
+        "Team Name": "Dortmund Esports",
+        "Abbreviation": "DOES",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Last Gate",
+        "Abbreviation": "LGE",
+        "Country": "Ukraine"
+    },
+    {
+        "Team Name": "Axolotl",
+        "Abbreviation": "AXL",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "AKA HERO",
+        "Abbreviation": "AKA HERO",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "NT4H Sunrise",
+        "Abbreviation": "NT4H Sunrise",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Team Aku Aku",
+        "Abbreviation": "AKU",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "Big Blue Charizard",
+        "Abbreviation": "BBC",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "NEANLATIYONBOLM",
+        "Abbreviation": "NEANLATIYONBOLM",
+        "Country": "Turkey"
+    },
+    {
+        "Team Name": "Veni eSports",
+        "Abbreviation": "VENI",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "RTZN",
+        "Abbreviation": "RTZN",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "ESC Gaming",
+        "Abbreviation": "ESC",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Ovation eSports",
+        "Abbreviation": "OVA",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "FTW Leça FC Esports",
+        "Abbreviation": "FXL",
+        "Country": "Portugal"
+    },
+    {
+        "Team Name": "Imperium Gaming",
+        "Abbreviation": "IMP",
+        "Country": "Spain"
+    },
+    {
+        "Team Name": "RIZON",
+        "Abbreviation": "RZN",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "Incognito",
+        "Abbreviation": "INCO",
+        "Country": "Poland"
+    },
+    {
+        "Team Name": "QLASH",
+        "Abbreviation": "QLSH",
+        "Country": "Italy"
+    },
+    {
+        "Team Name": "Exalty",
+        "Abbreviation": "Exalty",
+        "Country": "France"
+    },
+    {
+        "Team Name": "Ionized Esports",
+        "Abbreviation": "Ionized Esports",
+        "Country": "Norway"
+    },
+    {
+        "Team Name": "buchclub",
+        "Abbreviation": "buchclub",
+        "Country": "Germany"
+    },
+    {
+        "Team Name": "BLX UTD",
+        "Abbreviation": "BLX",
+        "Country": "Europe"
+    },
+    {
+        "Team Name": "Hurricane Of Feathers",
+        "Abbreviation": "HOF",
+        "Country": "Portugal"
+    }
+]
