@@ -1,0 +1,26 @@
+{
+    "metadataAttributes": {},
+    "documentStructureConfiguration": {
+        "type": "RECORD_BASED_STRUCTURE_METADATA",
+        "recordBasedStructureMetadata": {
+            "contentFields": [
+                {
+                    "fieldName": "Content"
+                }
+            ],
+            "metadataFieldsSpecification": {
+                "fieldsToInclude": [
+                    {
+                        "fieldName": "Player"
+                    },
+                    {
+                        "fieldName": "Team"
+                    },
+                    {
+                        "fieldName": "Agents Played"
+                    }
+                ]
+            }
+        }
+    }
+}

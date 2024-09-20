@@ -58,8 +58,16 @@ def create_csv_and_metadata(input_json_file, output_csv_file, metadata_json_file
 
         csv_rows.append(row)
 
-    # Get all field names for the CSV header
-    fieldnames = list(csv_rows[0].keys())
+    # Get all unique field names for the CSV header
+    fieldnames = set()
+    for row in csv_rows:
+        fieldnames.update(row.keys())
+    fieldnames = list(fieldnames)
+
+    # Optional: Define desired field order
+    desired_order = ['Content', 'Player', 'Team', 'Agents Played']
+    remaining_fields = sorted(set(fieldnames) - set(desired_order))
+    fieldnames = desired_order + remaining_fields
 
     # Write the CSV file
     with open(output_csv_file, 'w', encoding='utf-8', newline='') as csvfile:
@@ -109,6 +117,7 @@ def create_csv_and_metadata(input_json_file, output_csv_file, metadata_json_file
         json.dump(metadata_json, f, ensure_ascii=False, indent=4)
 
     print(f"Metadata JSON file '{metadata_json_file}' has been created.")
+
 
 def main():
     for file in file_info:
