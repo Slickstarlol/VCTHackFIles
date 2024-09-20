@@ -1,5 +1,8 @@
 {
-    "metadataAttributes": {},
+    "metadataAttributes": {
+        "source": "Converted from JSON",
+        "author": "Your Name or Organization"
+    },
     "documentStructureConfiguration": {
         "type": "RECORD_BASED_STRUCTURE_METADATA",
         "recordBasedStructureMetadata": {
@@ -9,17 +12,8 @@
                 }
             ],
             "metadataFieldsSpecification": {
-                "fieldsToInclude": [
-                    {
-                        "fieldName": "Player"
-                    },
-                    {
-                        "fieldName": "Team"
-                    },
-                    {
-                        "fieldName": "Agents Played"
-                    }
-                ]
+                "fieldsToInclude": [],
+                "fieldsToExclude": []
             }
         }
     }
