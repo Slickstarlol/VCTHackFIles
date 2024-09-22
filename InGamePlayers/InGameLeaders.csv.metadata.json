@@ -1,0 +1,20 @@
+{
+    "metadataAttributes": {
+        "source": "Converted from JSON",
+        "author": "Your Name or Organization"
+    },
+    "documentStructureConfiguration": {
+        "type": "RECORD_BASED_STRUCTURE_METADATA",
+        "recordBasedStructureMetadata": {
+            "contentFields": [
+                {
+                    "fieldName": "Content"
+                }
+            ],
+            "metadataFieldsSpecification": {
+                "fieldsToInclude": [],
+                "fieldsToExclude": []
+            }
+        }
+    }
+}
